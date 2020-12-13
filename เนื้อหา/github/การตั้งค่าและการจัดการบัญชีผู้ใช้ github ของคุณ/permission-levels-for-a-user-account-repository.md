@@ -21,7 +21,7 @@ You can also {% if currentVersion == "free-pro-team@latest" %}invite{% else %}ad
 
 {% endtip %}
 
-### Owner access for a repository owned by a user account
+### Owner access for a repository owned by a user accounting
 
 The repository owner has full control of the repository. In addition to the actions that any collaborator can perform, the repository owner can perform the following actions.
 
